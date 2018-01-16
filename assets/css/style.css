@@ -1,0 +1,14 @@
+.jumbotron-fluid {
+  text-align: center;
+  border-bottom-style: solid;
+  border-color: grey;
+  background-color: rgb(57, 128, 222);
+  color: white;
+
+}
+
+.card-header {
+  background-color: rgb(57, 128, 222);
+
+
+}
