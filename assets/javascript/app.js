@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	// 1. Link to Firebase
-	var trainData = new Firebase("");
+	var trainData = new Firebase("https://train-6707f.firebaseio.com/");
 
 	// 2. Button for adding Trains
 	$("#addTrainBtn").on("click", function(){
